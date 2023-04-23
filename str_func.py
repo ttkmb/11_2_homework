@@ -9,3 +9,6 @@ def caps_str_task_2(str):
     return " ".join(capitalized_words)
 
 print(caps_str_task_2("asd sad"))
+
+def hotfix():
+    pass
